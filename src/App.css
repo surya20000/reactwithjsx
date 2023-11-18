@@ -1,0 +1,16 @@
+/* add your styles here */
+div{
+    display: flex;
+    flex-wrap: wrap;
+}
+img{
+    height:500px ;
+    width: 650px;
+    margin-bottom:30px ;
+    margin-left:35px ;
+}
+h1{
+    font-size: 30px;
+    margin-left: auto;
+    margin-right: auto;
+}
